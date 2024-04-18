@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Luka Gurgenidze</h1>
 <h3 align="center">Beginner passionate coder soon to be upcoming software engineer</h3>
-https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roundluka&label=Profile%20views&color=0e75b6&style=flat" alt="roundluka" /> </p>
 
@@ -25,4 +25,3 @@ https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roundluka&show_icons=true&locale=en" alt="roundluka" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roundluka&" alt="roundluka" /></p>
-
