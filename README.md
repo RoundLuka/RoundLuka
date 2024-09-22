@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Luka Gurgenidze</h1>
 <h3 align="center">A passionate coder from Georgia with growing expertise in web development and AI</h3>
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" alt="">
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" alt="Peace">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roundluka&label=Profile%20views&color=0e75b6&style=flat" alt="roundluka" /> </p>
 
