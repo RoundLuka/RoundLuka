@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **lua**
 
-- 📫 How to reach me **lukagurgenidze282007@gmail.com**
+- 📫 How to reach me **luka.gurgenidze03gmail.com**
 
 - ⚡ Fun fact **I wrote my first code in roblox studio**
 
